@@ -1,7 +1,7 @@
 # Week2Project
 
 ### Author
-##### Belyse Uwambayinema
+**Belyse Uwambayinema**
 
 ![Akan name website](image/mywebsiteakan.png)
 
