@@ -29,6 +29,8 @@ function mybirthday(){
                 alert("You were born on a "+day+" "+"Your Akan Name is " + femaleName[dateday]);
             }
             }
-    }
+        }else{
+        alert("Please select gender");
+    }    
 }
 }
