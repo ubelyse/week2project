@@ -14,5 +14,11 @@ function mybirthday(){
 
     if(date.value==""){
         alert("Please enter a valid date");
-    }
+    }else{
+        for(var i = 0;i<gender.length;i++){
+            if(gender[i].checked){
+                valid = true;
+                break;
+            }
+        }
 }
