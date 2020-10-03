@@ -21,5 +21,14 @@ function mybirthday(){
                 break;
             }
         }
+        if(valid){
+            if(gender[i].value == "male"){
+                alert("You were born on a "+day +" "+"Your Akan Name is " + maleName[dateday]);
+            }else{
+            if(gender[i].value == "female"){ 
+                alert("You were born on a "+day+" "+"Your Akan Name is " + femaleName[dateday]);
+            }
+            }
     }
+}
 }
