@@ -10,7 +10,7 @@
     width: 1000px;
 }
 .containeroverlay{
-    background-color: rgba(0, 0, 0, 0.2);
+    
     height: 600px;
     width: 1000px;
 }
@@ -41,5 +41,21 @@
 .birthday{
     float: center;
     border: 5px solid #FFFF00;
+    height: 400px;
+    width: 1000px;
     padding: 50px;
+    background-image: url(../image/akanface.jpg);
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.fillform{
+    color: white;
+}
+.dob-label{
+    color:white;
+}
+.gender-label{
+    color: white;
+}
+.akansubmit{
+    color: darkblue;
 }
