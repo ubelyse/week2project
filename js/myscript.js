@@ -7,4 +7,8 @@ function mybirthday(){
     var date = document.getElementById("date");
     var date = new Date(document.getElementById("date").value);
     var dateday = date.getDay();
+
+    var gender = document.akannames.gender;
+    var day = weekdays[dateday];
+    var valid = false; 
 }
