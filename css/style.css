@@ -1,9 +1,33 @@
 .title-heading{
 
-    color: darkred;
+    color: white;
 }
 .containername{
     display: flex;
     background-image: url(../image/ghaniansflag.jpg);
+    background-repeat: no-repeat;
     height: 600px;
+    width: 1000px;
+}
+.containeroverlay{
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 600px;
+    width: 1000px;
+}
+.paragraphdetail{
+    color: yellow;
+}
+
+.maleghanians{
+    float: left; 
+    border: 5px solid #FFFF00;
+    padding: 50px;
+}
+.maleplace{
+    color: White;
+}
+.femaleghanians{
+    float: right;
+    border: 5px solid #FFFF00;
+    padding: 50px;
 }
