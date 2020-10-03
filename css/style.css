@@ -3,6 +3,7 @@
     color: darkred;
 }
 .containername{
+    display: flex;
     background-image: url(../image/ghaniansflag.jpg);
     height: 600px;
 }
