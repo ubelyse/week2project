@@ -34,3 +34,9 @@ function mybirthday(){
     }    
 }
 }
+function refreshpage(){
+    document.getElementById('date').innerHTML = "";
+    document.getElementById('gender').innerHTML = "";
+    document.getElementById('result').innerHTML = "";
+    date.value = "";
+    }
