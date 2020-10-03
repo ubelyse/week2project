@@ -1,3 +1,8 @@
 .title-heading{
+
     color: darkred;
+}
+.containername{
+    background-image: url(../image/ghaniansflag.jpg);
+    height: 600px;
 }
