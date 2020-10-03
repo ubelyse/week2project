@@ -11,4 +11,8 @@ function mybirthday(){
     var gender = document.akannames.gender;
     var day = weekdays[dateday];
     var valid = false; 
+
+    if(date.value==""){
+        alert("Please enter a valid date");
+    }
 }
